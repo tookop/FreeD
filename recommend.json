@@ -92,6 +92,12 @@
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
           "url": "http://dyscdnali1.douyucdn.cn/live/231464ruiASM3G05.flv?uuid=",
           "type": "app://playDetail"
+        },
+        {
+          "name": "小实验",
+          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
+          "url": "http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8",
+          "type": "app://playDetail"
         }
       ]
     }
