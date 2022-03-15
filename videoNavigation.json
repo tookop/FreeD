@@ -190,6 +190,12 @@
           "type": "app://m3u",
           "pic": "",
           "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/live/new.m3u"
+        },
+        {
+          "name": "直播频道3",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8"
         }
       ]
     },
